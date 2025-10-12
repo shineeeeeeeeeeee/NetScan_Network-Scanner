@@ -1,1 +1,1 @@
-# NetScan, A Network Scanner
+# NetScan - A Network Scanner
